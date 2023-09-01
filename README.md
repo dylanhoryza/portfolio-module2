@@ -20,6 +20,7 @@
    ![screenshot-3](assets/images/screenshot3.png)
 
 - Deployed link:
+https://dylanhoryza.github.io/portfolio-module2/
 
 
 
