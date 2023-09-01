@@ -12,11 +12,12 @@
    ```
    ![screenshot-1](assets/images/screenshot1.png)
    ![screenshot-2](assets/images/screenshot2.png)
+   ![screenshot-3](assets/images/screenshot3.png)
 
 - Deployed link:
 
 
 ## Credits
-- Mila Hose, my tutor for this project. She helped me with flexbox properties and media queries.
+- Mila Hose, my tutor for this project. She helped me with flexbox properties and alignment.
 
 
